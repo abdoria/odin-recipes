@@ -1,0 +1,55 @@
+#homepage-title{
+    background-color: #e3b261;
+    color: white;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.recipe-title {
+    background-color: cadetblue;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+div p {
+    font-size: 18px;
+}
+
+h3 {
+    color: blue;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 25px;
+}
+
+#recipe-list {
+    list-style: none;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.recipe-ingredients {
+    list-style: square;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 18px;
+}
+
+.instructions {
+    border: 2px solid;
+    font-size: 20px;
+}
+
+a.back-homepage {
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: #e3b261;
+    background-color: #e3b261;
+    color: red;
+}
